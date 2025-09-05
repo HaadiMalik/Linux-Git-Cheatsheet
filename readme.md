@@ -17,10 +17,13 @@
     - create [new_folder] in the current directory
 
 
+- "$ mv file_name/folder_name destination_name"
+    - move file/folder location to destination
+
+    
 ## Git Commands
 
 
 
-- "$ mv file_name/folder_name destination_name"
-    - move file/folder location to destination
+
 
