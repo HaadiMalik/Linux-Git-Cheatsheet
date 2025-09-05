@@ -17,10 +17,15 @@
     - create [new_folder] in the current directory
 
 
-- "$ mv file_name/folder_name destination_name"
-    - move file/folder location to destination
+- "$ mv [file_name] [destination_name]"
+    - move [file_name] location to [destination_name]
+    - can replace [file_name] with [folder_name]
 
-    
+
+- "$ pwd"
+    - print working (current) directory
+
+
 ## Git Commands
 
 
