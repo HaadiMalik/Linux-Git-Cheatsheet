@@ -4,12 +4,16 @@
     - opens [file_name] to view contents in the terminal
     - can be modified to join, copy, append and create files among other things
 
+
 - "$ cd path/to/dir"
     - change directories
 
 
-## Git Commands
+- "$ ls"
+    - list all the files (not hidden) within the current directory
 
+
+## Git Commands
 
 
 
