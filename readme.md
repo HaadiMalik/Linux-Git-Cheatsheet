@@ -26,6 +26,11 @@
     - print working (current) directory
 
 
+- "$ rm [flags] [file_name]"
+    - remove [file_name] or [folder_name] ([folder_name] must be empty first)
+    - use "$ rm -r [folder_name]" to remove [folder_name] and all contents within
+
+
 ## Git Commands
 
 
