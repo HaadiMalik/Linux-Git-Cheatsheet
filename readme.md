@@ -48,6 +48,7 @@
 
 # Git Commands
 
+
 - "$ git add [file(s)]"
     - add [file(s)] to the stage, ready forr a commit
     - use "$ git add ." to add all new/changed files in the current directory to the stage
@@ -82,3 +83,9 @@
     - finds the latest common commit between the current branch and [branch_name]
     - if there are no conflicts, it merges the two and creates a merge commit
     - with conflicts, a text eeditor is opened for you to resolve
+
+<br>
+
+- "$ git pull"
+    - take the changes made to the latest version of the online repository and pull to the local level
+    - only applies to current branch. needs to be done seperately for each branch
