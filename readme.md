@@ -73,4 +73,4 @@
 <br>
 
 - "$ git init"
-    - initialize an existing directory as a git repository
+    - initialize an existing local directory as a git repository
