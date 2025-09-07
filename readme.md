@@ -19,6 +19,7 @@
 - "$ mkdir [new_folder]"
     - create [new_folder] in the current directory
 
+
 <br>
 
 - "$ mv [file_name] [destination_name]"
@@ -69,3 +70,7 @@
     - entering just "$ git commiit" opens a text editor for the user to write a commit message
     - can use single or double quotes for message
 
+<br>
+
+- "$ git init"
+    - initialize an existing directory as a git repository
