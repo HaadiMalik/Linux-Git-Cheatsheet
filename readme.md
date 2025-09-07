@@ -57,4 +57,9 @@
     - use with [branch_name] to create a new branch at the current name
     - closely related to "$ git checkout -b [branch_name]" and "$ git switch -c [branch_name]"
 
+<br>
+
+- "$ git clone [online_repo_url]"
+    - clone an online repository for local use
+
 
