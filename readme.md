@@ -55,6 +55,7 @@
 
 <br>
 
+
 - "$ git branch [branch_name]"
     - use without [branch_name] for a list of branches. the active branch will be marked with *
     - use with [branch_name] to create a new branch at the current name
@@ -89,3 +90,10 @@
 - "$ git pull"
     - take the changes made to the latest version of the online repository and pull to the local level
     - only applies to current branch. needs to be done seperately for each branch
+
+<br>
+
+- "$ git push"
+    - push all commits in the local repository branch to the online repository branch
+    - for the first commit for each branch in a local development environment, "$ git push -u origin [branch_name]" is needed
+        - all subsequent commits only need "$ git push", whether or not branches are switched
