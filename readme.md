@@ -37,6 +37,7 @@
     - remove [file_name] or [folder_name] ([folder_name] must be empty first)
     - use "$ rm -r [folder_name]" to remove [folder_name] and all contents within
 
+
 <br>
 
 - "$ touch [file_name(s)]"
@@ -74,3 +75,10 @@
 
 - "$ git init"
     - initialize an existing local directory as a git repository
+
+<br>
+
+- "$ git merge [branch_name]"
+    - finds the latest common commit between the current branch and [branch_name]
+    - if there are no conflicts, it merges the two and creates a merge commit
+    - with conflicts, a text eeditor is opened for you to resolve
